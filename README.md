@@ -1,1 +1,1 @@
-# pyhton-rockpaperscissors
+childs game, popular one
